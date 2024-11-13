@@ -1,0 +1,15 @@
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\bin\Debug\Hotel management Syatem1.exe.config
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\bin\Debug\Hotel management Syatem1.exe
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\bin\Debug\Hotel management Syatem1.pdb
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel management Syatem1.csproj.AssemblyReference.cache
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form1.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form2.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form3.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Properties.Resources.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel management Syatem1.csproj.GenerateResource.cache
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel management Syatem1.csproj.CoreCompileInputs.cache
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel management Syatem1.exe
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel management Syatem1.pdb
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form4.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form5.resources
+C:\Users\KALHARA\Desktop\C# project\Hotel management Syatem1\Hotel management Syatem1\obj\Debug\Hotel_management_Syatem1.Form6.resources
